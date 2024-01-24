@@ -31,7 +31,7 @@ contract MetadataRenderer is IMetadataRenderer {
             '<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">',
             '<rect width="100%" height="100%" fill="#0052FF" />',
             '<text x="50" y="250" fill="#FFFFFF" font-size="24" font-family="Arial, sans-serif">',
-            'FIRST & BASED, BLOCK #', blockNumber,
+            'FIRST &amp; BASED: BLOCK #', blockNumber,
             '</text></svg>'
         ));
     }
