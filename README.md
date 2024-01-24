@@ -34,7 +34,7 @@ To get started with this project, clone the repository and install the dependenc
 
 ```bash
 git clone https://github.com/wbnns/first-and-based.git
-cd first-based
+cd first-and-based
 npm install
 ```
 
