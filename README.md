@@ -32,11 +32,11 @@ First & Based is an generative NFT collection experiment, where each NFT represe
 
 To get started with this project, clone the repository and install the dependencies:
 
-\```bash
-git clone https://github.com/wbnns/first-based.git
+```bash
+git clone https://github.com/wbnns/first-and-based.git
 cd first-based
 npm install
-\```
+```
 
 ## Deployment
 
@@ -46,9 +46,9 @@ The contracts are deployed using Hardhat. To deploy the contracts:
 2. Compile the contracts using `npx hardhat compile`.
 3. Run the deployment script:
 
-\```bash
+```bash
 npx hardhat run scripts/deploy.js --network <network-name>
-\```
+```
 
 ## Verification
 
@@ -56,7 +56,7 @@ After deployment, verify the `FirstBased` contract on Basescan by providing the 
 
 ## Contributing
 
-Contributions to the `FirstBased` NFT project are welcome! To contribute:
+Based contributions to the First and Based are welcome! To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature/BasedFeature`).
